@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Model files
+model/*.pt
+model/*.pth
+
+# Uploaded images
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database (optional if local)
+*.sqlite3
+*.db
+
+# Byte-compiled files
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
