@@ -178,8 +178,8 @@ pip install requirements.txt
 ### ➤ Development Mode
 
 ```bash
-python train.py
-python app.py
+1. python train.py
+2. python app.py
 ```
 
 ## Environment Variables (`.env`)
