@@ -25,7 +25,7 @@ model/*.pt
 model/*.pth
 
 # Uploaded images
-uploads/
+# uploads/
 
 # OS files
 .DS_Store
