@@ -34,7 +34,7 @@ ai-animal-classifier/
 
 ---
 
-## echnologies Used
+## Technologies Used
 
 - **Python 3.12+**
 - **Flask** - Web server for REST API
@@ -165,11 +165,20 @@ ai-animal-classifier/
 
 ---
 
+### Install dependencies 
+
+```bash
+pip install requirements.txt
+```
+
+---
+
 ## Running the Project
 
 ### ➤ Development Mode
 
 ```bash
+python train.py
 python app.py
 ```
 
