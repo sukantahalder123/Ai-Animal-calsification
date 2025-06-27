@@ -173,14 +173,6 @@ ai-animal-classifier/
 python app.py
 ```
 
-### ➤ Production Mode (using Gunicorn)
-
-```bash
-gunicorn app:app
-```
-
----
-
 ## Environment Variables (`.env`)
 
 ```
